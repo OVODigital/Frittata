@@ -1,0 +1,31 @@
+{
+  "name": "frittata",
+  "version": "1.0.0",
+  "keywords": [
+    "shopify",
+    "theme",
+    "framework",
+    "css",
+    "js",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end"
+  ],
+  "main": [
+    "assets/*",
+    "config/*",
+    "layout/*",
+    "snippets/*",
+    "templates/*"
+  ],
+  "ignore": [
+    ".*"
+  ],
+  "homepage": "http://www.ovo.ie",
+  "authors": [
+    "Jonathan Larkin <jonathan@ovo.ie>"
+  ],
+  "description": "OVO's Ultimate Shopify Theme Framework",
+  "license": "MIT"
+}
